@@ -8,3 +8,4 @@ QUESTION 2:
 On the dashboard, click on ‘permission’.
 scroll down to “block public access (bucket access)”.
 click on ‘edit’. Unmark the marked box. Then save changes.
+ASSALAMUALAIKUM
